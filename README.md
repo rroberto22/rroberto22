@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rroberto22 - Roberto Ramirez
 - 👀 I’m interested in IOT development, app development and home automation
 - 🌱 I’m currently learning Vue JS front-end
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I'm constantly improving my home assistant implementation
 - 📫 How to reach me ar3pi.com
 
 <!---
